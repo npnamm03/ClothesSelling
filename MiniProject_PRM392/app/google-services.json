@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "813111481551",
+    "firebase_url": "https://prm392-3a79e-default-rtdb.firebaseio.com",
+    "project_id": "prm392-3a79e",
+    "storage_bucket": "prm392-3a79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813111481551:android:8961612a5807c04d1213ba",
+        "android_client_info": {
+          "package_name": "com.example.miniproject_prm392"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5EI4AEKhqcuKnM9N3ZvdEdiF0o8Z76X4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
